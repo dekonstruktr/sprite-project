@@ -1,3 +1,4 @@
+// testing git
 var canvas = document.getElementById("canvas");
 var drawingSurface = canvas.getContext("2d");
 var timer = document.getElementById("timer");
